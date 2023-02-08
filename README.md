@@ -1,7 +1,7 @@
 # Neural Network Charity Analysis
 
 ## Overview 
-The non-profit foundation Alphabet Soup is set out to fund many organizations that “protect the environment, improve people’s well-being, and unify the world”. They have raised and donated over 10 billion dollars in the past 20 years. The data analysts’ team oversees the impact of each donation and vet potential recipients. However, not every donation has fulfilled its purpose with many organizations taking the money and disappearing. The purpose of this project is to use machine learning  and neural networks knowledge to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup, or if an organization can be a high risk.
+The non-profit foundation Alphabet Soup is set out to fund many organizations that *“protect the environment, improve people’s well-being, and unify the world”*. They have raised and donated over 10 billion dollars in the past 20 years. The data analysts’ team oversees the impact of each donation and vet potential recipients. However, not every donation has fulfilled its purpose with many organizations taking the money and disappearing. The purpose of this project is to use machine learning  and neural networks knowledge to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup, or if an organization can be a high risk.
 With this goal in mind, it is necessary to design and train a deep learning neural network. This model will evaluate all the types of input data and produce a clear decision-making result.
 
 ## Results
